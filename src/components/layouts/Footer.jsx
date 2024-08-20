@@ -6,7 +6,7 @@ const Footer = () => {
             <div className='container'>
                 <div className='row'>
                     <div className='col'>
-                        <p className='text-white text-center mt-3'>&#169; All Right Reserved by Javed Ali</p>
+                        <p className='text-white text-center mt-3'>&#169; All Right Reserved by Mohammed Ashiq</p>
                     </div>
                 </div>
             </div>

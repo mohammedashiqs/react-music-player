@@ -7,7 +7,7 @@ function Header() {
    <div className='container'>
         <NavLink to={'/'} className={'navbar-brand'}>MUSIC PLAYER</NavLink>
 
-        <button type='button' className='navbar-toggler' data-bs-target='#menu' data-bs-toggle='collapse'></button>
+        <button type='button' className='navbar-toggler' data-bs-target='#menu' data-bs-toggle='collapse'>Menu</button>
             <span className='collapse navbar-collapse' id='menu'>
                 
             </span>
