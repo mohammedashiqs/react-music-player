@@ -33,7 +33,8 @@ return (
 <Fragment>
     <div className='banner'>
         <div className='container'>
-            <div className='row'>
+            <div className='row'>   
+                
                 <div className='col'>
                     <h1 className='text-center text-secondary mt-5'>WELCOME TO REACT MUSIC PLAYER APP</h1>
                 </div>
